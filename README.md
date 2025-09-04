@@ -1,8 +1,8 @@
 - 👋 Oii, Me chamo Ryan Souza
-- 💼 Desenvolvedor Web na AMZ|MP
+- 💼 Programador Full stack na Beef Boutique
 - 🎓 Curso tecnico de Informatica para internet
-- ⭐ Conhecimento em linguagens: HTML - CSS - JS | Bibliotecas: Bootstrap e Jquery
-- 👀 Interesse no momento: Backend e React
+- ⭐ Conhecimento em linguagens: PHP, DART, JS, HTML | Bibliotecas: Bootstrap e Jquery | Frameworks: Codeigniter 4 e Flutter
+- 👀 Interesse no momento: Desenvolvimento mobile - Flutter
 - 📫 Email de contato: ryan.souza.lucas@gmail.com
 
 <!---
